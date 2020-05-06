@@ -1,3 +1,3 @@
-# Hello-World
-Just beginning the journey
-Hello world, I'm Krishnendu!!!
+# Hello-World, I'm Krishnendu!!!
+I'm Just beginning the journey!
+Excited;)
